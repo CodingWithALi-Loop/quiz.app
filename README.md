@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Quiz Generator
 
 Python + Flask backend with Anthropic AI for MCQ generation.
@@ -57,3 +58,7 @@ http://localhost:5000
 2. User picks difficulty (Easy/Medium/Hard) and question count (5/10/15/20)
 3. Flask calls Claude API → returns MCQs as JSON
 4. Frontend renders quiz, tracks answers, shows results
+=======
+# quiz.app
+quiz app
+>>>>>>> 53682e8d740e4c7b8b471e311eee6d02e650984a
